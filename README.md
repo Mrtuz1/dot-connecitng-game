@@ -1,2 +1,2 @@
-# dot-connecitng-game
+# dot-connecting-game
 ypg dersinin dönem projesi
